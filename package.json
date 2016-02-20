@@ -1,5 +1,5 @@
 {
-	"name": "gulp with jade and stylus",
+	"name": "gulp-jade-stylus",
 	"version": "0.1.0",
 	"description": "Just gulp template",
 	"main": "gulpfile.js",
